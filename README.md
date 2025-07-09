@@ -97,5 +97,5 @@ MIT License
 
 k69883
 
-git clone https://github.com/your-username/ig-to-yt-shorts.git
+git clone https://github.com/k69883/ig-to-yt-shorts.git
 cd ig-to-yt-shorts
