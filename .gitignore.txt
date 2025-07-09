@@ -1,0 +1,8 @@
+client_secrets.json
+token.pickle
+temp/
+ffmpeg_bin/
+*.mp4
+*.zip
+__pycache__/
+*.pyc
